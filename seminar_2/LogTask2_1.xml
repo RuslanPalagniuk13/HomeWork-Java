@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-16T11:49:53.757356900Z</date>
+  <millis>1676548193757</millis>
+  <nanos>356900</nanos>
+  <sequence>0</sequence>
+  <logger>task2_1</logger>
+  <level>INFO</level>
+  <class>task2_1</class>
+  <method>babblSort</method>
+  <thread>1</thread>
+  <message>[81, 67, 67, 64, 92, 53, 39, 75, 98, 30]</message>
+</record>
+<record>
+  <date>2023-02-16T11:49:53.875856700Z</date>
+  <millis>1676548193875</millis>
+  <nanos>856700</nanos>
+  <sequence>1</sequence>
+  <logger>task2_1</logger>
+  <level>INFO</level>
+  <class>task2_1</class>
+  <method>babblSort</method>
+  <thread>1</thread>
+  <message>[81, 67, 67, 92, 64, 53, 75, 98, 39, 30]</message>
+</record>
+<record>
+  <date>2023-02-16T11:49:53.877853300Z</date>
+  <millis>1676548193877</millis>
+  <nanos>853300</nanos>
+  <sequence>2</sequence>
+  <logger>task2_1</logger>
+  <level>INFO</level>
+  <class>task2_1</class>
+  <method>babblSort</method>
+  <thread>1</thread>
+  <message>[81, 67, 92, 67, 64, 75, 98, 53, 39, 30]</message>
+</record>
+<record>
+  <date>2023-02-16T11:49:53.879852Z</date>
+  <millis>1676548193879</millis>
+  <nanos>852000</nanos>
+  <sequence>3</sequence>
+  <logger>task2_1</logger>
+  <level>INFO</level>
+  <class>task2_1</class>
+  <method>babblSort</method>
+  <thread>1</thread>
+  <message>[81, 92, 67, 67, 75, 98, 64, 53, 39, 30]</message>
+</record>
+<record>
+  <date>2023-02-16T11:49:53.881850500Z</date>
+  <millis>1676548193881</millis>
+  <nanos>850500</nanos>
+  <sequence>4</sequence>
+  <logger>task2_1</logger>
+  <level>INFO</level>
+  <class>task2_1</class>
+  <method>babblSort</method>
+  <thread>1</thread>
+  <message>[92, 81, 67, 75, 98, 67, 64, 53, 39, 30]</message>
+</record>
+<record>
+  <date>2023-02-16T11:49:53.883849200Z</date>
+  <millis>1676548193883</millis>
+  <nanos>849200</nanos>
+  <sequence>5</sequence>
+  <logger>task2_1</logger>
+  <level>INFO</level>
+  <class>task2_1</class>
+  <method>babblSort</method>
+  <thread>1</thread>
+  <message>[92, 81, 75, 98, 67, 67, 64, 53, 39, 30]</message>
+</record>
+<record>
+  <date>2023-02-16T11:49:53.888846700Z</date>
+  <millis>1676548193888</millis>
+  <nanos>846700</nanos>
+  <sequence>6</sequence>
+  <logger>task2_1</logger>
+  <level>INFO</level>
+  <class>task2_1</class>
+  <method>babblSort</method>
+  <thread>1</thread>
+  <message>[92, 81, 98, 75, 67, 67, 64, 53, 39, 30]</message>
+</record>
+<record>
+  <date>2023-02-16T11:49:53.890845500Z</date>
+  <millis>1676548193890</millis>
+  <nanos>845500</nanos>
+  <sequence>7</sequence>
+  <logger>task2_1</logger>
+  <level>INFO</level>
+  <class>task2_1</class>
+  <method>babblSort</method>
+  <thread>1</thread>
+  <message>[92, 98, 81, 75, 67, 67, 64, 53, 39, 30]</message>
+</record>
+<record>
+  <date>2023-02-16T11:49:53.894842800Z</date>
+  <millis>1676548193894</millis>
+  <nanos>842800</nanos>
+  <sequence>8</sequence>
+  <logger>task2_1</logger>
+  <level>INFO</level>
+  <class>task2_1</class>
+  <method>babblSort</method>
+  <thread>1</thread>
+  <message>[98, 92, 81, 75, 67, 67, 64, 53, 39, 30]</message>
+</record>
+<record>
+  <date>2023-02-16T11:49:53.898840800Z</date>
+  <millis>1676548193898</millis>
+  <nanos>840800</nanos>
+  <sequence>9</sequence>
+  <logger>task2_1</logger>
+  <level>INFO</level>
+  <class>task2_1</class>
+  <method>babblSort</method>
+  <thread>1</thread>
+  <message>[98, 92, 81, 75, 67, 67, 64, 53, 39, 30]</message>
+</record>
+</log>
